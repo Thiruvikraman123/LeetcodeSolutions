@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0682-baseball-game) |
 ## Recursion
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0682-baseball-game) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
