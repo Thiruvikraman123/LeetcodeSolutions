@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0682-baseball-game) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
 | ------- |
