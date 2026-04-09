@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Recursion
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
