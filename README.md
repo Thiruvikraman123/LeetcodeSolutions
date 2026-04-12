@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1920-build-array-from-permutation](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
