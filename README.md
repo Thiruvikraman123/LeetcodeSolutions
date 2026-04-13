@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
@@ -105,4 +108,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
