@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1480-running-sum-of-1d-array](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
