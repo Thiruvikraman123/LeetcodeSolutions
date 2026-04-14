@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0136-single-number) |
 | [0682-baseball-game](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
