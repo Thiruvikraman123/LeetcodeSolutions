@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Stack
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0136-single-number) |
 | [0682-baseball-game](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
+| [0977-squares-of-a-sorted-array](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1920-build-array-from-permutation) |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
