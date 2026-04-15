@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0682-baseball-game) |
