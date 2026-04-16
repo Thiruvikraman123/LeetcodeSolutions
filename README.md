@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1046-last-stone-weight) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1920-build-array-from-permutation) |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
