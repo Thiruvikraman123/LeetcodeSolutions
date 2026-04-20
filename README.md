@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [0520-detect-capital](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0520-detect-capital) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
