@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/1920-build-array-from-permutation) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Thiruvikraman123/LeetcodeSolutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
